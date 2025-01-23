@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bannedPlayers>
     <player>
+        <name>Test</name>
         <uuid>123e4567-e89b-12d3-a456-426614174000</uuid>
         <reason>test</reason>
     </player>
     <player>
+        <name>Test</name>
         <uuid>987f6543-e21b-45d3-b123-567819473abc</uuid>
         <reason>test</reason>
     </player>
