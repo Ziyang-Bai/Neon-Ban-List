@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bannedPlayers>
     <player>
-        <name>Tests</name>
-        <uuid>414cf323-978c-3e83-9288-612345bfec67</uuid>
+        <name>Test</name>
+        <uuid>444cf323-978c-3e83-9288-612345bfec67</uuid>
         <reason>test</reason>
         <docket>N/A</docket>
     </player>
