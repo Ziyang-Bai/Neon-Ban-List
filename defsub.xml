@@ -2,12 +2,7 @@
 <bannedPlayers>
     <player>
         <name>Test</name>
-        <uuid>123e4567-e89b-12d3-a456-426614174000</uuid>
-        <reason>test</reason>
-    </player>
-    <player>
-        <name>Test</name>
-        <uuid>987f6543-e21b-45d3-b123-567819473abc</uuid>
+        <uuid>444cf323-978c-3e83-9288-612345bfec67</uuid>
         <reason>test</reason>
     </player>
 </bannedPlayers>
